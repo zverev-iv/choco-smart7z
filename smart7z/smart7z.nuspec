@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>smart7z</id>
+    <version>1.2.1</version>
+    <packageSourceUrl>https://github.com/zverev-iv/choco-smart7z</packageSourceUrl>
+    <owners>zverev-iv</owners>
+    <title>smart7z (Install)</title>
+    <authors>Dec Software</authors>
+    <projectUrl>https://www.tc4shell.com/en/7zip/smart7z/</projectUrl>
+    <copyright>2020 Dec Software</copyright>
+    <licenseUrl>https://www.tc4shell.com/en/termsofuse/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>smart7z 7zip 7-zip smart plugin</tags>
+    <summary>Smart7z provides flexible settings when packing files into a .7z archive</summary>
+    <description>Smart7z is a plugin for the popular archiver 7-Zip. Smart7z provides flexible settings when packing files into a .7z archive. For example, you can use different compression methods for different files: LZMA for .jpg files, WavPack2 for .wav files, PPMD for text files, and LZMA2 for any other files. This way, you can significantly improve the overall compression ratio.
+    </description>
+    <releaseNotes>Current version
+
+Plugin version: 1.2.1
+Distribution package release date: 12 Apr 2020
+    </releaseNotes>
+    <dependencies>
+        <dependency id="7zip.install" version="19.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
