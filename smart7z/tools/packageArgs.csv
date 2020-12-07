@@ -1,3 +1,3 @@
 #TYPE System.Management.Automation.PSCustomObject
-"url","checksum","checksumType","url64bit","checksum64","checksumType64"
-"https://www.tc4shell.com/binary/Smart7z.zip","cb131e88d13c865f8b6f0c1ddcf5980666fbfae6d5aa421f675bfe5db601287e","sha256","https://www.tc4shell.com/binary/Smart7z.zip","cb131e88d13c865f8b6f0c1ddcf5980666fbfae6d5aa421f675bfe5db601287e","sha256"
+"url";"checksum";"checksumType";"url64bit";"checksum64";"checksumType64"
+"https://www.tc4shell.com/binary/Smart7z.zip";"cb131e88d13c865f8b6f0c1ddcf5980666fbfae6d5aa421f675bfe5db601287e";"sha256";"https://www.tc4shell.com/binary/Smart7z.zip";"cb131e88d13c865f8b6f0c1ddcf5980666fbfae6d5aa421f675bfe5db601287e";"sha256"
